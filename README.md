@@ -1,3 +1,3 @@
-# UWIGEM Github Page
+# UWIGEM Documentation Hosting
 
-[Documentation(2017)](docs)
+[Documentation(2017)](docs2017)
